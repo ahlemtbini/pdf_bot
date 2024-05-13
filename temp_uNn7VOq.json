@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "context": "La France est un pays en Europe, connu pour sa riche culture, sa gastronomie et son histoire. Sa capitale, Paris, est une ville emblématique mondialement reconnue pour ses musées, ses monuments historiques tels que la Tour Eiffel et Notre-Dame, et ses quartiers animés. La ville de Paris est le centre politique, économique, culturel et artistique du pays. Chaque année, elle attire des millions de touristes du monde entier qui viennent admirer ses musées, sa cuisine et son architecture.",
+        "start_position": 90,
+        "end_position": 95
+    },
+    {
+        "question": "Quel est le plus haut sommet du monde et où se trouve-t-il ?",
+        "context": "L'Everest est le plus haut sommet du monde, s'élevant à 8 848 mètres au-dessus du niveau de la mer. Situé dans la chaîne de l'Himalaya, à la frontière entre le Népal et la Chine, il attire de nombreux alpinistes du monde entier. L'ascension de l'Everest est une entreprise périlleuse qui nécessite une préparation minutieuse, un équipement spécial et un accompagnement professionnel en raison des conditions météorologiques extrêmes et du manque d'oxygène en altitude.",
+        "start_position": 9,
+        "end_position": 15
+    },
+    {
+        "question": "Quels sont les défis de la préservation de l'environnement en Amazonie ?",
+        "context": "L'Amazonie, souvent appelée le poumon de la planète, fait face à de nombreux défis environnementaux majeurs. La déforestation, principalement causée par l'agriculture commerciale, l'exploitation forestière illégale et les feux de forêt, menace gravement cet écosystème. Outre la perte de biodiversité, la déforestation contribue au changement climatique en libérant du dioxyde de carbone dans l'atmosphère. Les communautés autochtones, qui vivent en harmonie avec la forêt, subissent également les conséquences de cette destruction, perdant leur territoire et leurs moyens de subsistance.",
+        "start_position": 94,
+        "end_position": 107
+    },
+    {
+        "question": "Quel est l'objectif principal de l'Union européenne ?",
+        "context": "L'Union européenne (UE) est une union politique et économique unique en son genre, composée de 27 États membres qui sont situés principalement en Europe. Fondée après la Seconde Guerre mondiale, son objectif principal est de promouvoir la paix, la stabilité et la prospérité en Europe. Pour cela, elle encourage la coopération économique et politique entre ses membres, établit des normes communes, et soutient les droits de l'homme et la démocratie.",
+        "start_position": 170,
+        "end_position": 208
+    }
+]
